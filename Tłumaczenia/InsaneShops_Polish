@@ -1,0 +1,91 @@
+SHOP: Sklep
+SHOPS: Sklepy
+BUY: Kup
+TYPEIN: Wpisz
+ITEMS: Przedmioty
+SELL: Sprzedać
+REVENUE: Dochód
+TRANSACTIONS: Transakcje
+PURCHASING: Nabywcy
+BUYING: Kupowanie
+SELLING: Sprzedawanie
+PRICE: Cena
+UNITS: Jednostki
+AMOUNT: Ilość
+BUY_FOR: Kupić za
+SELL_FOR: Sprzedać za
+AVAILABLE: Dostępny
+PRICE_PER_ITEM: Cena za sztukę
+STOCKED_ITEMS: Towary w magazynie
+INCREASE: Zwiększać
+DECREASE: Zmniejszać
+QUANTITY: Ilość
+CONFIRM: Potwierdzać
+FOR: za
+YOU_WILL_RECEIVE: Otrzymasz
+ENCHANTED: Zaczarowany
+ITEMS_AVAILABLE: dostępne elementy
+CONTINUE: Kontynuuj
+MONEY_PAID: Zapłacone pieniądze
+GUI_OVERVIEW_OPENSHOPS_ACTION: Kliknij, aby otworzyć sklepy
+GUI_OVERVIEW_OPENSETTINGS_ACTION: Kliknij, aby otworzyć Ustawienia
+GUI_SHOPSETTINGS_BUY_LEFTACTION: ** Kliknij lewym przyciskiem **, aby ** zmienić ** cenę kupna
+GUI_SHOPSETTINGS_BUY_QACTION: ** Naciśnij Q **, aby wyłączyć kupowanie
+GUI_SHOPSETTINGS_BUY_OTHERACTION: ** Kliknij **, aby włączyć ** kupowanie **
+GUI_SHOPSETTINGS_BUY_EXPLANATION: Kupuje po **%1** każdy
+GUI_SHOPSETTINGS_SELL_LEFTACTION: ** Kliknij lewym przyciskiem **, aby ** zmienić ** cenę sprzedaży
+GUI_SHOPSETTINGS_SELL_QACTION: ** Naciśnij Q **, aby wyłączyć sprzedaż
+GUI_SHOPSETTINGS_SELL_OTHERACTION: ** Kliknij **, aby włączyć ** sprzedaż **
+GUI_SHOPSETTINGS_SELL_EXPLANATION: będzie sprzedawany za **%1** każdy
+GUI_MONEYSELECTOR_TYPEIN_ACTION: ** Kliknij **, aby wpisać cenę
+GUI_MONEYSELECTOR_INCREASE_ACTION: ** Kliknij lewym przyciskiem **, aby dodać **%1**
+GUI_MONEYSELECTOR_DECREASE_ACTION: ** Kliknij lewym przyciskiem **, aby usunąć **%1**
+GUI_MONEYSELECTOR_SWITCHUNIT: ** Naciśnij ** [** Q **] **, aby zmienić jednostkę
+GUI_MONEYSELECTOR_CONFIRM_ACTION: Kliknij, aby potwierdzić
+GUI_MONEYSELECTOR_TYPEIN: Wpisz cenę na czacie
+GUI_SHOP_NAV_SELECT_ACTION: Kliknij, aby wybrać tę opcję
+GUI_SHOP_NAV_SELECTED: Ta opcja jest obecnie wybrana
+GUI_SHOP_NOSELLABLEITEMS_TITLE: Nie znaleziono żadnych pozycji
+GUI_SHOP_NOSELLABLEITEMS_EXPLANATION: Nie udało się znaleźć żadnego przedmiotu do sprzedaży w Twoim ekwipunku
+GUI_SHOP_OUTOFSTOCK_TITLE: Brak w magazynie
+GUI_SHOP_OUTOFSTOCK_EXPLANATION: Poczekaj, aż **%1** uzupełni zapas sklepu
+GUI_SHOP_REDUCE_TITLE: Zmniejsz ilość
+GUI_SHOP_REDUCE_LEFTACTION: ** Kliknij lewym przyciskiem **, aby usunąć ** 1 **
+GUI_SHOP_REDUCE_RIGHTACTION: ** Kliknij prawym przyciskiem **, aby usunąć ** 10 **
+GUI_SHOP_REDUCE_LIMIT: Nie możesz ** dalej zmniejszać ** kwoty
+GUI_SHOP_INCREASE_TITLE: Zwiększ ilość
+GUI_SHOP_INCREASE_LEFTACTION: ** Kliknij lewym przyciskiem **, aby dodać ** 1 **
+GUI_SHOP_INCREASE_RIGHTACTION: ** Kliknij prawym przyciskiem myszy **, aby dodać ** 10 **
+GUI_SHOP_INCREASE_LIMIT: Nie możesz ** dalej zwiększać ** kwoty
+GUI_SHOP_PURCHASE_TITLE: Kup
+GUI_SHOP_PURCHASE_ACTION: Kliknij, aby ** kupić **
+GUI_SHOP_PURCHASE_NOFUNDS: Nie masz wystarczających środków na zakup
+GUI_SHOPBROWSER_SETTINGSACTION: ** Kliknij **, aby wyświetlić ustawienia
+GUI_SHOPBROWSER_LEFTACTION: ** Kliknij lewym przyciskiem **, aby ** kupić **
+GUI_SHOPBROWSER_RIGHTACTION: ** Kliknij prawym przyciskiem **, aby wyświetlić ustawienia
+GUI_SHOPBROWSER_YOURSHOPINDICATOR: Sprzedajesz ten przedmiot
+GUI_SHOPCREATION_TITLE: Utwórz sklep
+GUI_SHOPCREATION_TITLEWITHAMOUNT: Sprzedaj %1x ten przedmiot
+GUI_SHOPCREATION_INCREASE_ACTION: Kliknij, aby zwiększyć kwotę
+GUI_SHOPCREATION_REDUCE_ACTION: Kliknij, aby zmniejszyć kwotę
+GUI_SHOPCREATION_UNAVAILABLE_EXPLANATION: Ta opcja jest niedostępna
+GUI_SHOPCREATION_CONTINUE_EXPLANATION: Kliknij, aby kontynuować
+GUI_SHOPSETTINGS_CONVERTADMINSHOP_TITLE: Konwertuj na Admin Shop
+GUI_SHOPSETTINGS_CONVERTADMINSHOP_ACTION: ** Kliknij **, aby przekonwertować
+GUI_SHOPSETTINGS_STOCK_ACTION: Kliknij, aby ** zarządzać ** elementami
+GUI_SHOPSETTINGS_STOCK_REVENUE_IF_SOLD: Całkowity przychód w przypadku sprzedaży
+GUI_SHOPSETTINGS_TRANSACTIONS_ACTION: Kliknij, aby ** wyświetlić ** transakcje
+GUI_SHOPSETTINGS_DELETE_TITLE: Zamknij sklep
+GUI_SHOPSETTINGS_DELETE_ACTION: Kliknij, aby zamknąć sklep
+GUI_SHOPSETTINGS_DELETE_NEEDWITHDRAWING: Najpierw wycofaj wszystkie dostępne produkty
+GUI_STOCKEDVIEW_TITLE: Pozycje w magazynie
+GUI_STOCKEDVIEW_ACTION: Kliknij, aby ** przenieść ** do swojego ekwipunku
+GUI_STOCKEDVIEW_INSTRUCTION: Dodaj przedmioty, klikając je w swoim ekwipunku
+GUI_TRANSACTIONS_PURCHASETIME: Zakupiony **%1** temu
+SHOP_CREATION_NOPERMISSION: Nie możesz stworzyć sklepu
+SHOP_CREATION_INVALID_ITEM: Nie możesz sprzedać tego przedmiotu
+SHOP_CREATION_REACHED_LIMIT: Nie możesz tworzyć więcej niż **%1** sklepów
+ACTIONBAR_NOTICES_OPENSHOP: ** Kliknij prawym przyciskiem **, aby otworzyć ten ** sklep **
+ACTIONBAR_NOTICES_CREATESHOP: ** Sneak + lewy przycisk myszy **, aby utworzyć nowy sklep
+MESSAGE_BUY_INVFULL: Nie można kupić **%1**. Twój ekwipunek jest pełny.
+MESSAGE_BUY_COMPLETED: Pomyślnie kupiono **%1x%2** za **%3
