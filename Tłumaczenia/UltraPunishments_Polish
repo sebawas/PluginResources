@@ -1,0 +1,108 @@
+OVERVIEW: Przegląd
+REPORT: Raport
+SERVER: Serwer
+PLAYERS: Gracze
+REPORTS: Raporty
+SETTINGS: Ustawienia
+TEMPLATE: Szablon
+PERMANENT: Stały
+SYSTEM: System
+DURATION: Czas trwania
+REASON: Powód
+TEMPLATES: Szablony
+PUNISH: Karać
+WARNINGS: Ostrzeżenia
+PUNISHMENTS: Kary
+MESSAGE: Wiadomość
+EVIDENCE: Dowody
+BAN: Ban
+MUTE: Wycisz
+OR: albo
+ISSUER: Wystawca
+ENABLE: Włączyć
+ENABLED: Włączone
+DISABLE: Wyłączyć
+DISABLED: Wyłączone
+SETTINGS: Ustawienia
+DAY: Dzień
+DAYS: Dni
+HOUR: Godzina
+HOURS: Godziny
+MINUTE: Minuta
+MINUTES: Minuty
+SECOND: Sekunda
+SECONDS: Sekundy
+NONE: Brak
+COMMAND_NOPERMISSION: Nie masz **dostępu** do tej komendy
+COMMAND_NOCONSOLE: Ta komenda nie może być uruchomiona z poziomu konsoli
+GUI_SETTINGS_SELECTPAGE: Kliknij, aby wyświetlić Ustawienia
+GUI_SETTINGS_PAGESELECTED: Ta strona już jest **zaznaczona**
+GUI_SETTINGS_LANGUAGE_NAME: Język
+GUI_SETTINGS_MYSQL_NAME: Baza Danych MYSQL
+GUI_SETTINGS_MYSQL_EDITVALUE_ACTION: Kliknij aby zmienić zawartość
+GUI_SETTINGS_MYSQL_CURRENTVALUE: Aktualna zawartość:
+GUI_SETTINGS_MYSQL_SETUP_TITLE_FIELDNAME: MySQL - %1
+GUI_SETTINGS_MYSQL_SETUP_TITLE_TYPEINVALUE: Wpisz wartość
+GUI_SETTINGS_MYSQL_SETUP_TITLE: Skonfiguruj MySQL
+GUI_SETTINGS_MYSQL_SETUP_ACTION: Kliknij, aby włączyć MySQL
+GUI_SETTINGS_MYSQL_SETUP_INFO: Wymaga to zewnętrznej bazy danych MySQL do połączenia
+GUI_SETTINGS_MYSQL_DISABLE_TITLE: Wyłączono MySQL
+GUI_SETTINGS_MYSQL_DISABLE_ACTION: Kliknij aby wyłączyć MySQL
+GUI_SETTINGS_MYSQL_RESTARTREQUIRED: Zostaniesz poproszony o ponowne uruchomienie w celu zastosowania zmian
+GUI_SETTINGS_MYSQL_CANTCONNECT: Nie mogę połączyć się z twoją bazą MySQL
+GUI_SETTINGS_MYSQL_SAVE_TITLE: Przetestuj i zapisz
+GUI_SETTINGS_MYSQL_SAVE_ACTION: Kliknij aby **Przetestować** i **zapisać**
+GUI_SETTINGS_LANG_ACTION: Kliknij aby **wybrać** ten język
+GUI_SETTINGS_LANG_SELECTED: Ten język **aktualnie** jest wybrany
+GUI_SETTINGS_LANG_PHRASES: Zwroty Językowe
+GUI_SETTINGS_LANG_COVERAGE: Pokrycie Językowe
+GUI_PAGEABLE_SEARCH_TITLE: Szukaj
+GUI_PAGEABLE_SEARCH_ACTION: Kliknij aby wyszukać
+GUI_PAGEABLE_NEXT_TITLE: Kolejny
+GUI_PAGEABLE_NEXT_ACTION: Kliknij, aby przejść do następnej strony
+GUI_PAGEABLE_PREVIOUS_TITLE: Poprzedni
+GUI_PAGEABLE_PREVIOUS_ACTION: Kliknij aby powrócić do wcześniejszej strony.
+GUI_PAGEABLE_SEARCH_CLOSE_ACTION: Kliknij aby **zamknąć** wyszukiwanie
+GUI_PAGEABLE_SEARCH_TYPEIN: Wpisz wyszukiwane hasło
+GUI_BACK_NAME: Wstecz
+CREATE_REPORT: Utwórz raport
+GUI_OVERVIEW_PLAYERS_ACTION: Kliknij, aby wyświetlić graczy
+GUI_OVERVIEW_REPORTS_ACTION: Kliknij, aby wyświetlić otwarte raporty
+GUI_OVERVIEW_SETTINGS_ACTION: Kliknij, aby wyświetlić ustawienia
+GUI_OVERVIEW_TEMPLATES_ACTION: Kliknij, aby wyświetlić szablony
+GUI_OVERVIEW_TEMPLATES_BANTEMPLATES: Szablony blokowania
+GUI_OVERVIEW_TEMPLATES_MUTETEMPLATES: Wycisz szablony
+GUI_TEMPLATEBROWSER_LEFTACTION: ** Kliknij lewym przyciskiem **, aby wyświetlić szablon
+GUI_TEMPLATEBROWSER_QACTION: Naciśnij Q **, aby ** usunąć **
+GUI_TEMPLATEVIEW_TYPE_ACTION: kliknij, aby przełączyć typ
+TYPE_IN_REASON: Wpisz przyczynę
+TYPE_IN_MESSAGE: Wpisz wiadomość
+SET_A_REASON: Kliknij, aby ustawić przyczynę
+SET_A_DURATION: kliknij, aby ustawić czas trwania
+GUI_REPORTCREATION_ADDMESSAGE_TITLE: Dodaj wiadomość
+GUI_REPORTCREATION_ADDMESSAGE_ACTION: Kliknij, aby dodać ** wiadomość ** i ** kontynuuj **
+GUI_REPORTCREATION_ADDMESSAGE_EXPLANATION: Dodaj szczegółową wiadomość do raportu
+GUI_REPORTCREATION_ADDEVIDENCE_TITLE: Dodaj dowód
+GUI_REPORTCREATION_ADDEVIDENCE_ACTION: Kliknij, aby dodać ** dowód ** i ** kontynuuj **
+GUI_REPORTCREATION_ADDEVIDENCE_EXPLANATION: Dodaj ** Wiadomości na czacie **, ** Kill Feed ** i inne działania do raportu
+GUI_PLAYERBROWSER_ACTION: Kliknij, aby wyświetlić gracza
+GUI_WARNINGSBROWSER_ACTION: Kliknij, aby ** usunąć **
+GUI_WARNINGSBROWSER_NOPERM: Nie masz uprawnień do usunięcia tego ostrzeżenia
+GUI_PLAYERVIEW_PUNISH_LEFTACTION: ** Kliknij lewym przyciskiem **, aby%1
+GUI_PLAYERVIEW_PUNISH_RIGHTACTION: ** Kliknij prawym przyciskiem **, aby ** ostrzec (+ kopnięcie) **
+GUI_PLAYERVIEW_PUNISH_UNPUNISHABLE: Kary dla tego gracza zostały wyłączone.
+GUI_PLAYERVIEW_WARNINGS_ACTION: Kliknij, aby wyświetlić ostrzeżenia
+GUI_PLAYERVIEW_WARNINGS_NOWARNING: Gracz nigdy nie był ostrzeżony
+GUI_PLAYERVIEW_PUNISHMENTS_ACTION: Kliknij, aby wyświetlić kary
+GUI_PLAYERVIEW_PUNISHMENTS_ACTIVE: Aktywne kary
+GUI_PLAYERVIEW_PUNISHMENTS_PREVIOUS: Poprzednie kary
+GUI_PLAYERVIEW_PUNISHMENTS_NOPUNISHMENT: Gracz nigdy nie został ukarany
+GUI_PLAYERVIEW_REPORTS_ACTION: Kliknij, aby wyświetlić raporty
+GUI_PLAYERVIEW_REPORTS_ACTIVEREPORTS: Aktywne raporty wg
+GUI_PLAYERVIEW_REPORTS_ACTIVEREPORTS_ENTRY:% 1 na **%2 ** z **%3
+GUI_PLAYERVIEW_REPORTS_ACTIVEREPORTS_NONE: Gracz nie ma aktywnych raportów
+GUI_PLAYERVIEW_EXCLUDE_TITLE: wyklucz z kar
+GUI_PLAYERVIEW_EXCLUDE_ACTION: Kliknij, aby% 1 kar dla tego gracza
+GUI_PLAYERVIEW_EXCLUDE_EXPLANATION: Ten gracz nie może być przez nikogo ukarany
+MESSAGE_CREATED_REPORT: Dziękujemy za zgłoszenie **%1 **
+GUI_BACK_ACTION: Kliknij aby wrócić
